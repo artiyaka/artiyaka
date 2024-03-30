@@ -1,5 +1,5 @@
 # Welcome to my GitHub profile
-- Hi, I'm swenet aka Deniz
+- Sup, I'm swenet!
 - I'm interested in coding, drawing and pianos
 - I'm currently re-learning languages that all I know
 
