@@ -1,9 +1,18 @@
-# Welcome to my GitHub profile
-- Sup, I'm swenet!
-- I'm interested in coding, drawing and pianos
-- I'm currently re-learning languages that all I know
-
-# Contact with me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/735489537643380796) 
-
-[![Discord Profile](https://lanyard.cnrad.dev/api/735489537643380796)](https://discord.com/users/735489537643380796)
+```css
+                                     swenet@w11
+################  ################   ----------------------
+################  ################   User: swenet
+################  ################   OS: Windows 11 Pro x86_64
+################  ################   Kernel: 10.0.22631
+################  ################   Uptime: 1 day, 15 mins
+################  ################   Packages: 3 (scoop)
+################  ################   Shell: bash 5.2.26
+                                     Resolution: 1920x1080
+################  ################   WM: Aero
+################  ################   Terminal: Windows Terminal
+################  ################   CPU: AMD Ryzen 5 5500 (12) @ 3.600GHz
+################  ################   GPU: NVIDIA GeForce RTX 3060
+################  ################   Memory: 2235MiB / 16277MiB
+################  ################
+################  ################
+```
