@@ -12,7 +12,7 @@ PS C:\Users\mentalitybreakdown> neofetch
 ################    ################   WM: Aero
 ################    ################   Terminal: Windows Terminal
 ################    ################   CPU: AMD Ryzen 5 5500 (12) @ 3.600GHz
-################    ################   GPU: NVIDIA GeForce RTX 3060
+################    ################   GPU: NVIDIA GeForce RTX 3060 Ti
 ################    ################   Memory: 2235MiB / 16277MiB
 ################    ################   
 ```
