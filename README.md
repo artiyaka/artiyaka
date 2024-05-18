@@ -1,8 +1,8 @@
 ```css
-PS C:\Users\swenet> neofetch
-################    ################   swenet@windows11
+PS C:\Users\mentalitybreakdown> neofetch
+################    ################   mentalitybreakdown@windows11
 ################    ################   ----------------------
-################    ################   User: swenet
+################    ################   User: mentalitybreakdown
 ################    ################   OS: Windows 11 Pro x86_64
 ################    ################   Kernel: 10.0.22631
 ################    ################   Uptime: 1 day, 15 mins
